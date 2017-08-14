@@ -10,7 +10,8 @@
             Financial,
             Unfinancial,
             Suspended,
-            Test
+            Test,
+            TestAgain
         }
 
         public DateTime? PaidUpTo { get; set; }
